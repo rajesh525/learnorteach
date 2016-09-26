@@ -83,14 +83,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             gps.showSettingsAlert();
 
         }
-
-       /* circle = mMap.addCircle(new CircleOptions()
+//circle on google map
+       circle = mMap.addCircle(new CircleOptions()
                 .center(new LatLng(latitude,longitude))
                 .radius(1000)
                 .strokeWidth(10)
                 .strokeColor(Color.GREEN)
                 .fillColor(Color.argb(128, 255, 0, 0)));
-        */
+        
         new LoginUser().execute();
         mMap.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
             @Override
