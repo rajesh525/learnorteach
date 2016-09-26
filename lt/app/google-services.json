@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594954630754",
+    "project_id": "learner-a0187"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594954630754:android:173f3dbf567a74bf",
+        "android_client_info": {
+          "package_name": "in.learner.android.lt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594954630754-5eab9fb08ufknqu2hv6ji9gm5vrgek9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.learner.android.lt",
+            "certificate_hash": "46C94426408D5F1097222C24E7308A9DA183F078"
+          }
+        },
+        {
+          "client_id": "594954630754-gmt07351uc3o86vnvlq1mt3fel2c3821.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWuTjlTg8K0ZVCOxMkFTneqzoUxVp_RA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
